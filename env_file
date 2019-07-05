@@ -1,0 +1,11 @@
+module.exports = {
+    authSecret: ''
+     db: {
+        host : 'localhost',
+        port: 5432,
+        database: '',
+        user: '',
+        password: ''
+    },
+    dbMongo: '',
+}
